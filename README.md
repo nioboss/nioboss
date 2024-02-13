@@ -42,11 +42,3 @@ class Attributes(HaAnhTuan):
     <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
   </a>
 </p>
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=HaAnhTuan&theme=tokyonight&show_icons=true">
-</p>
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
-</p>
