@@ -10,8 +10,7 @@ class Attributes(HaAnhTuan):
     @property
     def contact(self) -> Tuple[str, str, str]:
         facebook  = "nio.devpy"
-        instagram = "_inst.tournifyai"
-        twitter   = "@haanhtuan0211"
+	telegram  = "@nio2k9"
         email     = "thsoftware.vn@gmail.com"
 	    
 	    return facebook, instagram, proton
